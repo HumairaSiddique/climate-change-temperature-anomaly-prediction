@@ -75,25 +75,25 @@ Climate-Temperature-Prediction/
 
 ## Temperature_Change_2024
 
-![Temperature_Change_2024](output images/temperature_change_2024.png)
+![temperature_change_2024](output images/temperature_change_2024.png)
 
 ---
 
 ## Top 10 Highest Temperature Change (2024)
 
-![Top10 Highest Temperature_Change_2024](output images/top10 highest temperature_change_2024.png)
+![top10 highest temperature_change_2024](output images/top10 highest temperature_change_2024.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](output images/feature_importance.png)
+![feature importance](output images/feature_importance.png)
 
 ---
 
 ## Model Comparison
 
-![Model Comparison](output images/model_comparison.png)
+![model comparison](output images/model_comparison.png)
 
 ---
 
