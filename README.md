@@ -94,7 +94,7 @@ The following visualizations were created:
 
 ## 🎯 Actual vs Predicted
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](images/actual_and_prediction_temperature.png)
 
 ---
 
